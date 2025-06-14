@@ -267,28 +267,28 @@ header{
     line-height: 1.45;
   }
 
-  footer {
-    background: #00985F;
-    color: #0f0f0f;;
-    padding: 15px 0 0 0;
-    margin-top: 48px;
+ footer {
+    background: #205d36;
+    color: #fff;
+    padding: 26px 0 0 0;
+    margin-top: 36px;
     font-size: 1rem;
-    border-top: 3px solid #00985F;
+    border-top: 5px solid #ffd449;
   }
-
   .footer-content {
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 16px;
   }
   .footer-logo {
     display: flex;
     align-items: center;
-    gap: 9px;
-    font-weight: 900;
-    font-size: 1.21rem;
+    gap: 13px;
+    font-weight: bold;
+    font-size: 1.29rem;
     margin-bottom: 8px;
     letter-spacing: 2px;
+    
   }
   .footer-info {
     display: flex;
@@ -311,20 +311,11 @@ header{
   .footer-bottom {
     text-align: center;
     font-size: 0.97rem;
-    color:#212c28;
+    color: #ffd449;
     margin-bottom: 7px;
-    margin-top: 4px;
+    margin-top: 7px;
   }
-  #coopFooter{
-    color:blue;
-    margin-top: 12vh;
-    margin-left: -13vh;
-  }
-    #connectFooter{
-    color:rgb(108, 216, 45);
-    margin-top: 12vh;
-    margin-left: -1.5vh;
-  }
+  
 
   @media (max-width: 1100px) {
     .features-row {
