@@ -21,7 +21,7 @@ header{
     margin-top: 20vh;
 }
 header img{
-width:20vh;
+width:15vh;
 margin-top: 13vh;
 } 
 #coop{
@@ -50,7 +50,7 @@ margin-left: 11vh;
   .nav-links {
     list-style: none;
     display: flex;
-    gap: 28px;
+    gap: 25px;
     margin: 0;
     padding: 0;
   }
