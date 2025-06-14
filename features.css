@@ -20,10 +20,7 @@ header{
     text-align: center;
     margin-top: 20vh;
 }
-header img{
-width:15vh;
-margin-top: 13vh;
-} 
+
 .navbar {
     display: flex;
     justify-content: space-between;
