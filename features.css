@@ -2,6 +2,7 @@
   background: #F4F6FB;
  overflow-x: hidden;
   margin: 0;
+  font-family: poppins;
 
   } 
 header{
@@ -25,12 +26,12 @@ margin-top: 13vh;
 } 
 #coop{
 color:rgb(27, 134, 184);
-font-size: 5vh;
+font-size: 4vh;
 margin-top:-5vh ;
 }
 #connect{
 color:rgb(53, 241, 36);
-font-size: 5vh;
+font-size: 4vh;
 margin-top:-10.5vh ;
 margin-left: 11vh;
 }
@@ -40,7 +41,7 @@ margin-left: 11vh;
     align-items: center;
     position: absolute;
     top: 22px;
-    left: -40;
+    left: -45;
     width: 100%;
     padding: 0 36px;
     z-index: 3;
@@ -53,11 +54,11 @@ margin-left: 11vh;
     margin: 0;
     padding: 0;
   }
-  .nav-links li a {
+  .nav-links li a 
     color: #fff;
     text-decoration: none;
     font-weight: 600;
-    font-size: 1.06rem;
+    font-size: 1.16rem;
     padding: 7px 14px;
     border-radius: 30px;
   }
