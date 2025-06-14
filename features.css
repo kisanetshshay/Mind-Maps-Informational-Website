@@ -31,7 +31,7 @@ margin-top:-5vh ;
 }
 #connect{
 color:rgb(53, 241, 36);
-font-size: 4vh;
+font-size: 3vh;
 margin-top:-10.5vh ;
 margin-left: 11vh;
 }
@@ -50,24 +50,24 @@ margin-left: 11vh;
   .nav-links {
     list-style: none;
     display: flex;
-    gap: 25px;
+    gap: 15px;
     margin: 0;
     padding: 0;
   }
-  .nav-links li a 
+  .nav-links li a {
     color: #fff;
     text-decoration: none;
     font-weight: 600;
-    font-size: 1.16rem;
-    padding: 7px 14px;
-    border-radius: 30px;
+    font-size: 1.06rem;
+    padding: 7px 15px;
+    border-radius: 20px;
+
   }
   .nav-links li a.active,
   .nav-links li a:hover {
     background: #fff;
-    color: #00985F;
+    color: #205d36;
   }
-  
   .about-features-section {
     background: #79b16f;
     margin: -30px auto 0 auto;
