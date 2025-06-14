@@ -15,7 +15,7 @@ header{
 }
 #headerimg{
     color: white;
-    font-size: 10vh;
+    font-size: 6vh;
     font-weight: bolder;
     text-align: center;
     margin-top: 20vh;
@@ -26,7 +26,7 @@ margin-top: 13vh;
 } 
 #coop{
 color:rgb(27, 134, 184);
-font-size: 4vh;
+font-size: 3vh;
 margin-top:-5vh ;
 }
 #connect{
@@ -50,7 +50,7 @@ margin-left: 11vh;
   .nav-links {
     list-style: none;
     display: flex;
-    gap: 15px;
+    gap: 13.5px;
     margin: 0;
     padding: 0;
   }
@@ -82,7 +82,7 @@ margin-left: 11vh;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 42px;
+    gap: 40px;
     margin-bottom: 28px;
   }
   .about-title h2 {
